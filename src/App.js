@@ -8,16 +8,6 @@ import Additem from "./components/Additem";
 
 function App() {
   const productlist = [
-    {
-      name: "Iphone Xs",
-      price: 99999,
-      quantity: 0,
-    },
-    {
-      name: "Samsung s23 ultra",
-      price: 69999,
-      quantity: 0,
-    },
   ];
 
   let [products, setList] = useState(productlist);
