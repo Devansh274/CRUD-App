@@ -1,1 +1,1 @@
-Hello
+This is a basic CRUD Application developed using Reactjs and CSS, consisting of a dashboard where the user can add unique items to the cart, change its quantity, can reset the cart or delete the items 
